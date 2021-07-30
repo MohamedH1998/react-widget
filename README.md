@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# React widget app
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a React widget app that uses functional components, utilising props, state, hooks, and also making requests to 3rd party APIs.
 
 ## Available Scripts
 
